@@ -4,6 +4,7 @@ import java.util.Random;
 public class contadornumeros
 {
 	static Random rnd=new Random();
+	//estoy cambiando algo//
 	public static void main(String[] args)
 	{
 		int veces;
